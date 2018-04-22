@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import PRANKBOTS
-from PRANKBOTS.lib.curve.ttypes import *	
+from PRANKBOTS.lib.ttypes import *	
 from datetime import datetime	
 import io,os,re,ast,six,sys,glob,json,time,timeit,codecs,random,shutil,urllib,urllib2,urllib3,goslate,html5lib,requests,threading,wikipedia,subprocess,googletrans
 from gtts import gTTS	
